@@ -1,0 +1,25 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "Microservico de autenticacao com Nodejs",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatopcinfo/user-authentication-api-nodejs.git"
+  },
+  "author": "Renato Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatopcinfo/user-authentication-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/renatopcinfo/user-authentication-api-nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^16.9.2",
+    "typescript": "^4.4.3"
+  }
+}
