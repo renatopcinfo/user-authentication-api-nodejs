@@ -21,6 +21,7 @@
   "homepage": "https://github.com/renatopcinfo/user-authentication-api-nodejs#readme",
   "devDependencies": {
     "@types/express": "^4.17.13",
+    "@types/jsonwebtoken": "^8.5.5",
     "@types/node": "^16.9.2",
     "@types/pg": "^8.6.1",
     "ts-node-dev": "^1.1.8",
@@ -29,6 +30,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "http-status-codes": "^2.1.4",
+    "jsonwebtoken": "^8.5.1",
     "pg": "^8.7.1"
   }
 }
